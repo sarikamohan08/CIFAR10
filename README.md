@@ -1,2 +1,2 @@
 # CIFAR10
-Exploring CIFAR10 dataset  by various CNN architectures
+Exploring CIFAR10 dataset  by hypermeter tunning.
